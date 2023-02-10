@@ -1,0 +1,18 @@
+<MessageHeader>
+    <MessageThreadId>Test0</MessageThreadId>
+    <MessageId>Test1</MessageId>
+    <MessageSender>
+        <PartyId>PADPIDA2015010310U</PartyId>
+        <PartyName>
+            <FullName>Sender</FullName>
+        </PartyName>
+    </MessageSender>
+    <MessageRecipient>
+        <PartyId>PADPIDA2016091404E</PartyId>
+        <PartyName>
+            <FullName>Receiver</FullName>
+        </PartyName>
+    </MessageRecipient>
+    <MessageCreatedDateTime>2023-02-10</MessageCreatedDateTime>
+    <MessageControlType>TestMessage</MessageControlType>
+</MessageHeader>

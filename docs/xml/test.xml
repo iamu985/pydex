@@ -1,0 +1,168 @@
+<ern:NewReleaseMessage xmlns:ern="http://ddex.net/xml/ern/411" xmlns:xsi="http://w3.org/2001/XMLSchema-instance" ReleaseProfileVariantVersionId="Classical" LanguageAndScriptCode="en">
+  <MessageHeader>
+    <MessageThreadId>65b9e35b-27d0-4f04-80f4-e125571b3f59</MessageThreadId>
+    <MessageId>2e5690b0-c22b-4ccc-92e8-3e7febab9bfb</MessageId>
+    <MessageSender>
+      <PartyId>PADPIDA2015010310U</PartyId>
+      <PartyName>
+        <FullName>Forevision Digital</FullName>
+      </PartyName>
+    </MessageSender>
+    <MessageRecipient>
+      <PartyId>PADPIDA2016091404E</PartyId>
+      <PartyName>
+        <FullName>Jaxsta</FullName>
+      </PartyName>
+    </MessageRecipient>
+    <MessageCreatedDateTime>2023-02-05T20:05:49</MessageCreatedDateTime>
+    <MessageControlType>LiveMessage</MessageControlType>
+  </MessageHeader>
+  <PartyList>
+    <Party>
+      <PartyReference>PTanmayJyotiPathak</PartyReference>
+      <PartyName>
+        <FullName>Tanmay Jyoti Pathak</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>PBanjitPathak</PartyReference>
+      <PartyName>
+        <FullName>Banjit Pathak</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>PAmitSoukadhara</PartyReference>
+      <PartyName>
+        <FullName>Amit Soukadhara</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>PChafikhurRahman</PartyReference>
+      <PartyName>
+        <FullName>Chafikhur Rahman</FullName>
+      </PartyName>
+    </Party>
+  </PartyList>
+  <ResourceList>
+    <SoundRecording>
+      <ResourceReference>A8905778280390</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <ResourceId>
+        <ISRC>8905778280390</ISRC>
+      </ResourceId>
+      <DisplayTitleText>Tanmay Jyoti Pathak: Akash Nila Nila Sopun</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Akash Nila Nila Sopun</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>Tanmay Jyoti Pathak</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>PTanmayJyotiPathak</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Contributor>
+        <ContributorPartyReference>PBanjitPathak</ContributorPartyReference>
+        <Role>Lyricist</Role>
+      </Contributor>
+      <Contributor>
+        <ContributorPartyReference>PAmitSoukadhara</ContributorPartyReference>
+        <Role>Composer</Role>
+      </Contributor>
+      <Contributor>
+        <ContributorPartyReference>PChafikhurRahman</ContributorPartyReference>
+        <Role>Director</Role>
+      </Contributor>
+      <PLine>
+        <PLineText>Amit Soukadhara</PLineText>
+      </PLine>
+      <Duration>PT3M52S</Duration>
+      <ParentalWarningType>NotExplicit</ParentalWarningType>
+      <TechnicalDetails>
+        <TechnicalResourceDetailsReference>T8905778280390</TechnicalResourceDetailsReference>
+        <AudioCodecType UserDefinedValue="WAV" Namespace="PADPIDA2015010310U">UserDefined</AudioCodecType>
+        <NumberOfChannels>2</NumberOfChannels>
+        <SamplingRate>48.0</SamplingRate>
+        <BitsPerSample>2304</BitsPerSample>
+        <Duration>PT3M52S</Duration>
+        <File>
+          <URI>resources/test_file.wav</URI>
+          <HashSum>
+            <Algorithm>MD5</Algorithm>
+            <HashSumValue>7bada59084a5347c40287dbd598562c877289be7</HashSumValue>
+          </HashSum>
+        </File>
+      </TechnicalDetails>
+    </SoundRecording>
+    <Image>
+      <ResourceReference>AINF232200812IMG</ResourceReference>
+      <Type>FrontCoverImage</Type>
+      <ResourceId>
+        <ProprietaryId Namespace="PADPIDA2015010310U">T8905778280390IMG</ProprietaryId>
+      </ResourceId>
+      <TechnicalDetails>
+        <TechnicalResourceDetailsReference>T8905778280390</TechnicalResourceDetailsReference>
+        <ImageHeight UnitOfMeasure="Pixel">3000</ImageHeight>
+        <ImageWidth UnitOfMeasure="Pixel">3000</ImageWidth>
+        <File>
+          <URI>resources/INF232200812IMG.jpg</URI>
+          <HashSum>
+            <Algorithm>MD5</Algorithm>
+            <HashSumValue>4c31c55f2122daa73718319afd3d08aa</HashSumValue>
+          </HashSum>
+        </File>
+      </TechnicalDetails>
+    </Image>
+  </ResourceList>
+  <ReleaseList>
+    <Release>
+      <ReleaseReference>R8905778280390</ReleaseReference>
+      <ReleaseType>Single</ReleaseType>
+      <ReleaseId>
+        <ICPN>8905778280390</ICPN>
+      </ReleaseId>
+      <DisplayTitleText>Akash Nila Nila Sopun</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Akash Nila Nila Sopun</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName ApplicableTerritoryCode="Worldwide">Tanmay Jyoti Pathak</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>PTanmayJyotiPathak</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <ReleaseLabelReference>PHRIDOI</ReleaseLabelReference>
+      <CLine>
+        <CLineCompany/>
+        <CLineText>HRIDOI</CLineText>
+      </CLine>
+      <Genre>
+        <GenreText>Regional</GenreText>
+      </Genre>
+      <ParentalWarningType>Unknown</ParentalWarningType>
+      <RelatedRelease>
+        <ReleaseRelationshipType>Unknown</ReleaseRelationshipType>
+        <ReleaseId>
+          <ICPN>8905778280390</ICPN>
+        </ReleaseId>
+      </RelatedRelease>
+      <ResourceGroup>
+        <SequenceNumber>1</SequenceNumber>
+        <ResourceGroupContentItem>
+          <SequenceNumber>1</SequenceNumber>
+          <ReleaseResourceReference>A8905778280390</ReleaseResourceReference>
+          <LinkedReleaseResourceReference>A8905778280390</LinkedReleaseResourceReference>
+        </ResourceGroupContentItem>
+      </ResourceGroup>
+    </Release>
+  </ReleaseList>
+  <DealList>
+    <ReleaseDeal>
+      <DealReleaseReference>R8905778280390</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <ValidityPeriod>
+            <StartDate>2022-10-20</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+    </ReleaseDeal>
+  </DealList>
+</ern:NewReleaseMessage>
