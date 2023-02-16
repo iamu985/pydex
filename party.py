@@ -10,8 +10,8 @@ from uuid import uuid4 as uuid
 from datetime import datetime
 
 #  local imports
-from .utils import get_logger, add_subelement_with_text, get_initials
-from .tags import PartyListTags, PartyTypeTags
+from pydex.utils import get_logger, add_subelement_with_text, get_initials
+from pydex.tags import PartyListTags, PartyType
 
 logger = get_logger(__name__, 'ddex')
 
@@ -28,7 +28,7 @@ class Party:
                  ):
         self.party_type = party_type  # Artist or Contributor
         self.full_name = full_name
-        self.id = self.uuid()
+        self.id = uuid()
 
     def get_reference(self):
         logger.debug(f'Getting reference to party of type {self.party_type}')
